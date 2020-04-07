@@ -1,12 +1,12 @@
 <h2 align="center">
-:dizzy: Demandez-moi n'importe quoi ! :sparkles:<br><br>
+:dizzy: Demandez nous n'importe quoi ! :sparkles:<br><br>
 
 <a href="../../issues/new">:speech_balloon: Posez une question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Lisez les questions</a>
 </h2>
 
-Je reçois parfois des questions par courriel. En la posant ici, tout le monde peut lire la réponse !
+On reçoit parfois des questions par courriel. En la posant ici, tout le monde peut lire la réponse !
 
-[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Rennes-en-Resilience/Contactez-nous)
 
 N'importe quoi veut vraiment dire *n'importe quoi*.
 Des questions personnelles. Argent. Travail. Vie. Code.
@@ -22,8 +22,8 @@ Cuisine. Voyage. Sports. Enseignement. Pokémon. N'importe quoi. :joy:
  - :heart_eyes: Si vous utilisez une *emoji* dans votre question, la réponse devrait arriver plus vite !
 
 ### *En anglais ? In English?*
-[En Français / In French :fr:](https://github.com/Naereen/ama.fr) ou
-[En anglais / In English :gb::us:](https://github.com/Naereen/ama)
+[En Français / In French :fr:](https://github.com/Rennes-en-Resilience/Contactez-nous) ou
+[En anglais / In English :gb::us:](https://github.com/Rennes-en-Resilience/Contact-us)
 
 ----
 
@@ -32,13 +32,13 @@ Cuisine. Voyage. Sports. Enseignement. Pokémon. N'importe quoi. :joy:
  - [D'autres AMAs](https://github.com/sindresorhus/amas).
  - [Qu'est-ce qu'une AMA ?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
-## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/ama.fr.svg)](https://github.com/Naereen/ama.fr/blob/master/LICENSE)
+## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Rennes-en-Resilience/Contactez-nous.svg)](https://github.com/Rennes-en-Resilience/Contactez-nous/blob/master/LICENSE)
 Ce (petit) dépôt est publié sous les conditions de la [licence MIT](http://lbesson.mit-license.org/) (fichier [LICENSE.txt](LICENSE.txt), en anglais).
-© [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
+© [Lilian Besson](https://GitHub.com/Naereen), 2020.
 
-[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/Naereen/ama.fr/graphs/commit-activity)
-[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama.fr/README.md?pixel)](https://GitHub.com/Naereen/ama.fr/)
+[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/Rennes-en-Resilience/Contactez-nous/graphs/commit-activity)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Rennes-en-Resilience/Contactez-nous)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Rennes-en-Resilience/Contactez-nous/README.md?pixel)](https://GitHub.com/Rennes-en-Resilience/Contactez-nous/)
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
