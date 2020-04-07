@@ -39,8 +39,6 @@ Ce (petit) dépôt est publié sous les conditions de la [licence MIT](http://lb
 [![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/Rennes-en-Resilience/Contactez-nous/graphs/commit-activity)
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Rennes-en-Resilience/Contactez-nous)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Rennes-en-Resilience/Contactez-nous/README.md?pixel)](https://GitHub.com/Rennes-en-Resilience/Contactez-nous/)
-
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
-
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
